@@ -53,8 +53,10 @@ Note: This is a student practice project and is not affiliated with Apple Inc.
 <hr>
 
 Preview
-<img width="1920" height="1080" alt="Preview (3)" src="https://github.com/user-attachments/assets/b9407bc7-306c-438a-8f3d-155abd8719a5" />
-<img width="1920" height="1080" alt="Preview (2)" src="https://github.com/user-attachments/assets/b5879487-137f-451f-b80f-da6c8a665443" />
-<img width="1920" height="1080" alt="Preview (1)" src="https://github.com/user-attachments/assets/8cbcc691-01a5-45a9-8d8b-9de7b6aaf382" />
-<img width="1920" height="1080" alt="Preview (4)" src="https://github.com/user-attachments/assets/0b72122f-cb64-4cf4-bfad-a7bd7e090225" />
+
+<img width="1920" height="907" alt="Preview (3)" src="https://github.com/user-attachments/assets/e2f7aada-27ab-4629-81ba-5b16e1657c95" />
+<img width="1920" height="835" alt="Preview (2)" src="https://github.com/user-attachments/assets/27eb8c86-e9d6-40d2-80e4-d496b1f8f56a" />
+<img width="1920" height="931" alt="Preview (1)" src="https://github.com/user-attachments/assets/b2320960-334e-48e1-9de3-3b329d1a871a" />
+<img width="1920" height="907" alt="Preview (4)" src="https://github.com/user-attachments/assets/1f342ad9-67a6-4aa9-8420-344b09df5972" />
+
 
