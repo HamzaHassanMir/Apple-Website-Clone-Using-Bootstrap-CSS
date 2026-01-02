@@ -47,4 +47,14 @@ picture1.jpg, picture2.jpg, pic3.jpg (Carousel images)
 <hr>
 
 📝 License
+
 Note: This is a student practice project and is not affiliated with Apple Inc.
+
+<hr>
+
+Preview
+<img width="1920" height="1080" alt="Preview (3)" src="https://github.com/user-attachments/assets/b9407bc7-306c-438a-8f3d-155abd8719a5" />
+<img width="1920" height="1080" alt="Preview (2)" src="https://github.com/user-attachments/assets/b5879487-137f-451f-b80f-da6c8a665443" />
+<img width="1920" height="1080" alt="Preview (1)" src="https://github.com/user-attachments/assets/8cbcc691-01a5-45a9-8d8b-9de7b6aaf382" />
+<img width="1920" height="1080" alt="Preview (4)" src="https://github.com/user-attachments/assets/0b72122f-cb64-4cf4-bfad-a7bd7e090225" />
+
